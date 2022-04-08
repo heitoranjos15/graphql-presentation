@@ -56,13 +56,13 @@ paging: Slide %d / %d
 - Mostrar ultimos 5 videos assistidos
 - Mostrar os 5 videos mais relevantes
 
-![home](./docs/images/home.png)
+![home](./images/home.png)
 
 ## Video
 - Exibir o video
 - Exibir recomendacoes de acordo com o cliente e o video visualizado
 
-![video](./docs/images/video.png)
+![video](./images/video.png)
 ---
 
 # Rest
